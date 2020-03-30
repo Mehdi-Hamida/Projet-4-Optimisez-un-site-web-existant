@@ -24,6 +24,11 @@ h3 {
     text-align: center;
 }
 
+.contrast
+{
+    color: white;
+}
+
 header
 {
     text-align: center;
@@ -675,7 +680,6 @@ a[data-lightbox]:hover img {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
