@@ -13,11 +13,6 @@ body {
     margin-right: auto;
 }
 
-.row p {
-    text-align: center;
-    color: black !important;
-}
-
 h1,
 h2,
 h3 {
@@ -26,6 +21,12 @@ h3 {
 
 p {
     font-size: 25px;
+}
+
+.liens
+{
+    color: blue !important;
+    text-decoration: underline;
 }
 
 .contrast {
@@ -1296,7 +1297,6 @@ a:hover {
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
